@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "realpath -s 0x00-current_working_directory"
+realpath -s 0x00-shell_basics
